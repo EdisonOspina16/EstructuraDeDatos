@@ -5,16 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6495bc08-7198-41ac-805a-e9828fff9246" name="Changes" comment="commit initial">
-      <change afterPath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Contar dígitos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Palindromo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Torres de hanói.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/complejidad de algoritmos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/complejidad de algoritmos/taller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm_Complexity/exercises/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList/doubly_excercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList/implementacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList/singly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList/singly_exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Queues/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Queues/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/is_matched_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Estructura de Datos Dinamicas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursividad/Taller/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Anagramas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/complejidad_de_algoritmos/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Complexity/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/complejidad_de_algoritmos/taller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Complexity/exercises/taller.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +48,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Contar dígitos.executor": "Run",
-    "Python.Factorial.executor": "Run",
-    "Python.Fibonacci.executor": "Run",
-    "Python.Palindromo.executor": "Debug",
-    "Python.Torres de hanói (1).executor": "Debug",
-    "Python.Torres de hanói.executor": "Run",
-    "Python.taller.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Contar dígitos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Palindromo.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Torres de hanói (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Torres de hanói.executor&quot;: &quot;Run&quot;,
+    &quot;Python.doubly_excercises.executor&quot;: &quot;Run&quot;,
+    &quot;Python.queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.singly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.singly_exercises.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.taller.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Torres_de_hanói">
-    <configuration name="Contar dígitos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estructura de Datos Dinamicas" />
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\Estructura de Datos Dinamicas\Algorithm_Complexity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.queue">
+    <configuration name="doubly_excercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursividad/Taller" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursividad/Taller/Contar dígitos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList/doubly_excercises.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,8 +96,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estructura de Datos Dinamicas" />
+    <configuration name="queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursividad/Taller" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_and_Queue/Queues" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursividad/Taller/Factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_and_Queue/Queues/queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,8 +118,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Palindromo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estructura de Datos Dinamicas" />
+    <configuration name="singly" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursividad/Taller" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LIstasEnlazadas/Lista_Ligada_simple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursividad/Taller/Palindromo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIstasEnlazadas/Lista_Ligada_simple/singly.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,8 +140,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Torres de hanói" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estructura de Datos Dinamicas" />
+    <configuration name="singly_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursividad/Taller" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursividad/Taller/Torres de hanói.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList/singly_exercises.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,8 +162,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Torres_de_hanói" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estructura de Datos Dinamicas" />
+    <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursividad/Taller_Recursividad" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_and_Queue/Stacks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\Estructura de Datos Dinamicas\Recursividad\Taller_Recursividad\Torres_de_hanói.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_and_Queue/Stacks/stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,18 +186,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Torres_de_hanói" />
-        <item itemvalue="Python.Palindromo" />
-        <item itemvalue="Python.Contar dígitos" />
-        <item itemvalue="Python.Torres de hanói" />
-        <item itemvalue="Python.Factorial" />
+        <item itemvalue="Python.queue" />
+        <item itemvalue="Python.stack" />
+        <item itemvalue="Python.singly_exercises" />
+        <item itemvalue="Python.doubly_excercises" />
+        <item itemvalue="Python.singly" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -200,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738987041119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit initial">
+      <option name="closed" value="true" />
+      <created>1739828631029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739828631029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,12 +237,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Recursividad/Taller_Recursividad/Torres de hanói.py</url>
+          <url>file://$PROJECT_DIR$/Recursividad/Taller_Recursividad/Torres_de_hanói.py</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Recursividad/Taller_Recursividad/Torres de hanói.py</url>
+          <url>file://$PROJECT_DIR$/Recursividad/Taller_Recursividad/Torres_de_hanói.py</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
