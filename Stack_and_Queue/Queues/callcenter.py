@@ -29,6 +29,7 @@ def main():
     consumer_thread = threading.Thread(target=consumer, daemon=True)
     call_center_thread.start()
     consumer_thread.start()
+    consumer_thread.join()
 
 if __name__ == "__main__":
     main()
