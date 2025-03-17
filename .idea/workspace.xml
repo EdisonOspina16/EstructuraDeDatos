@@ -4,24 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6495bc08-7198-41ac-805a-e9828fff9246" name="Changes" comment="commit initial">
-      <change afterPath="$PROJECT_DIR$/Algorithm_Complexity/exercises/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList/doubly_excercises.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList/implementacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList/singly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList/singly_exercises.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Queues/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Queues/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/is_matched_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Estructura de Datos Dinamicas.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="6495bc08-7198-41ac-805a-e9828fff9246" name="Changes" comment="ejercicios">
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Queues/callcenter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Queues/is_simmetric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/matching_delimiters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/reverse_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/complejidad_de_algoritmos/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Complexity/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/complejidad_de_algoritmos/taller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Complexity/exercises/taller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack_and_Queue/Queues/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_and_Queue/Queues/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack_and_Queue/Stacks/is_matched_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/is_matched_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack_and_Queue/Stacks/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,33 +41,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Contar dígitos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Palindromo.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Torres de hanói (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Torres de hanói.executor&quot;: &quot;Run&quot;,
-    &quot;Python.doubly_excercises.executor&quot;: &quot;Run&quot;,
-    &quot;Python.queue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.singly.executor&quot;: &quot;Run&quot;,
-    &quot;Python.singly_exercises.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.taller.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Contar dígitos.executor": "Run",
+    "Python.Factorial.executor": "Run",
+    "Python.Fibonacci.executor": "Run",
+    "Python.Palindromo.executor": "Debug",
+    "Python.Torres de hanói (1).executor": "Debug",
+    "Python.Torres de hanói.executor": "Run",
+    "Python.callcenter.executor": "Run",
+    "Python.doubly_excercises.executor": "Run",
+    "Python.matching_delimiters.executor": "Run",
+    "Python.queue.executor": "Run",
+    "Python.reverse_data.executor": "Run",
+    "Python.singly.executor": "Run",
+    "Python.singly_exercises.executor": "Run",
+    "Python.stack.executor": "Run",
+    "Python.taller.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\PycharmProjects\Estructura de Datos Dinamicas\Algorithm_Complexity" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.queue">
-    <configuration name="doubly_excercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.callcenter">
+    <configuration name="callcenter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,11 +79,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_and_Queue/Queues" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_Lists/DoublyLinkedList/doubly_excercises.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_and_Queue/Queues/callcenter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matching_delimiters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EstructuraDeDatosDinamicas" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_and_Queue/Stacks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_and_Queue/Stacks/matching_delimiters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="singly" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,33 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LIstasEnlazadas/Lista_Ligada_simple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_and_Queue/Stacks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIstasEnlazadas/Lista_Ligada_simple/singly.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="singly_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="EstructuraDeDatosDinamicas" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked_Lists/SinglyLinkedList/singly_exercises.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_and_Queue/Stacks/reverse_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.queue" />
+        <item itemvalue="Python.callcenter" />
+        <item itemvalue="Python.matching_delimiters" />
+        <item itemvalue="Python.reverse_data" />
         <item itemvalue="Python.stack" />
-        <item itemvalue="Python.singly_exercises" />
-        <item itemvalue="Python.doubly_excercises" />
-        <item itemvalue="Python.singly" />
+        <item itemvalue="Python.queue" />
       </list>
     </recent_temporary>
   </component>
@@ -226,12 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739828631029</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ejercicios">
+      <option name="closed" value="true" />
+      <created>1741561565151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741561565151</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit initial" />
+    <MESSAGE value="ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
