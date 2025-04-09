@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6495bc08-7198-41ac-805a-e9828fff9246" name="Changes" comment="ejercicios callcenter.py">
-      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Queues/ejercicios_tipo_examen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/ejercicios_tipo_examen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/BinaryTree/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/BinaryTree/binaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/BinaySearchTree/BinarySearchTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/BinaySearchTree/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6495bc08-7198-41ac-805a-e9828fff9246" name="Changes" comment="ejercicios">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EdisonOspina16/EstructuraDeDatos.git",
+    "accountId": "455c2cda-e794-4752-b983-29ff40800f75"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -247,15 +246,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742252104747</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ejercicios">
+      <option name="closed" value="true" />
+      <created>1744229884433</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744229884433</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit initial" />
-    <MESSAGE value="ejercicios" />
     <MESSAGE value="ejercicios pilas y colas" />
     <MESSAGE value="ejercicios callcenter.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicios callcenter.py" />
+    <MESSAGE value="ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
