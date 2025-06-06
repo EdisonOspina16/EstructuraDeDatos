@@ -7,7 +7,7 @@ class Stack:
 
     def is_empty(self):
         if len(self.stack) == 0:
-            return "Pila Vacia"
+            print("Pila Vacia")
 
     def push(self, e):
         self.stack.append(e)

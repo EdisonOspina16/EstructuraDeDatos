@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6495bc08-7198-41ac-805a-e9828fff9246" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Graphs/graphs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/kruskal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/shortest_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Taller_Recursividad/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Anagramas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Taller_Recursividad/Anagramas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Contar_dígitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Taller_Recursividad/Contar_dígitos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Taller_Recursividad/Factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Taller_Recursividad/Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Palindromo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Taller_Recursividad/Palindromo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/Torres_de_hanói.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Taller_Recursividad/Torres_de_hanói.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursividad/Taller_Recursividad/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/ejercicios_tipo_final.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack_and_Queue/Stacks/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack_and_Queue/Stacks/stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,23 +34,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EdisonOspina16"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EdisonOspina16&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EdisonOspina16/EstructuraDeDatos.git",
-    "accountId": "455c2cda-e794-4752-b983-29ff40800f75"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EdisonOspina16/EstructuraDeDatos.git&quot;,
+    &quot;accountId&quot;: &quot;455c2cda-e794-4752-b983-29ff40800f75&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2sYfup0Y8kjTyLvlY3uxfgQzD7N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
   </component>
   <component name="ProjectViewState">
@@ -46,38 +58,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BinarySearchTree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Contar dígitos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Palindromo.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Torres de hanói (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Torres de hanói.executor&quot;: &quot;Run&quot;,
-    &quot;Python.binaryTree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.callcenter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.doubly_excercises.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matching_delimiters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.queue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverse_data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.singly.executor&quot;: &quot;Run&quot;,
-    &quot;Python.singly_exercises.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.taller.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BinarySearchTree.executor": "Run",
+    "Python.Contar dígitos.executor": "Run",
+    "Python.Factorial.executor": "Run",
+    "Python.Fibonacci.executor": "Run",
+    "Python.Palindromo.executor": "Debug",
+    "Python.Torres de hanói (1).executor": "Debug",
+    "Python.Torres de hanói.executor": "Run",
+    "Python.binaryTree.executor": "Run",
+    "Python.callcenter.executor": "Run",
+    "Python.doubly_excercises.executor": "Run",
+    "Python.ejercicios_tipo_final.executor": "Run",
+    "Python.graphs.executor": "Run",
+    "Python.matching_delimiters.executor": "Run",
+    "Python.queue.executor": "Run",
+    "Python.reverse_data.executor": "Run",
+    "Python.shortest_path.executor": "Run",
+    "Python.singly.executor": "Run",
+    "Python.singly_exercises.executor": "Run",
+    "Python.stack.executor": "Run",
+    "Python.taller.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\PycharmProjects\Estructura de Datos Dinamicas\Tree\BinaySearchTree" />
       <recent name="C:\Users\USER\PycharmProjects\Estructura de Datos Dinamicas\Algorithm_Complexity" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BinarySearchTree">
+  <component name="RunManager" selected="Python.graphs">
     <configuration name="BinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
@@ -122,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="callcenter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ejercicios_tipo_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_and_Queue/Queues" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_and_Queue/Queues/callcenter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graphs/ejercicios_tipo_final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matching_delimiters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="graphs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_and_Queue/Stacks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_and_Queue/Stacks/matching_delimiters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graphs/graphs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shortest_path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EstructuraDeDatosDinamicas" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack_and_Queue/Stacks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack_and_Queue/Stacks/reverse_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graphs/shortest_path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,18 +205,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.graphs" />
+        <item itemvalue="Python.ejercicios_tipo_final" />
+        <item itemvalue="Python.shortest_path" />
         <item itemvalue="Python.BinarySearchTree" />
         <item itemvalue="Python.binaryTree" />
-        <item itemvalue="Python.callcenter" />
-        <item itemvalue="Python.matching_delimiters" />
-        <item itemvalue="Python.reverse_data" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -325,13 +340,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Recursividad/Taller_Recursividad/Torres_de_hanói.py</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/Recursion/Taller_Recursividad/Torres_de_hanói.py</url>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Recursividad/Taller_Recursividad/Torres_de_hanói.py</url>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
