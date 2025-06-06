@@ -1,11 +1,10 @@
+# ejercicios_tipo_final.py
+
 from graphs import AdjListGraph
 
-
 """
-Cree una función que reciba un grafo dirigido G, un vertice origen v1 y un vertice destino v2,
-y un conjunto vertices excluidos Vex = {'v4','v3'},
-la función debe retornar cuantas rutas existen entre v1 y v2 pero sin pasar por los vertices excluidos.
-Si no existe ruta entre v1 y v2, ó las rutas que existen pasan por v4 ó v3, debe retornar 0.
+Función que calcula cuántas rutas existen entre dos vértices
+sin pasar por un conjunto de vértices excluidos.
 """
 
 def dfs(graph, start, end, excluded):
@@ -17,17 +16,24 @@ def dfs(graph, start, end, excluded):
 
         if current in excluded:
             continue
+
         if current == end:
             count += 1
             continue
 
-        for neighbor in graph.get(current, []):
-            if neighbor not in path:  # Evitar ciclos
+        for neighbor, _ in graph.get(current, []):
+            if neighbor not in path:
                 stack.append((neighbor, path + [neighbor]))
 
     return count
 
+
+# Crear grafo y añadir vértices
 g = AdjListGraph()
+for v in ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']:
+    g.add_vertex(v)
+
+# Añadir aristas
 g.add_edge('A', 'B')
 g.add_edge('A', 'C')
 g.add_edge('B', 'C')
@@ -40,10 +46,9 @@ g.add_edge('G', 'H')
 g.add_edge('H', 'I')
 g.add_edge('I', 'D')
 
+# Parámetros de búsqueda
 v1 = 'A'
 v2 = 'D'
-Vex = {'E', 'F'}
+Vex = {'E', 'F'}  # Vértices excluidos
 
-# Aquí sí estamos usando tu clase
-print(dfs(g.adj_list, v1, v2, Vex))  # Resultado esperado: 2
-
+print(dfs(g.adj_list, v1, v2, Vex))

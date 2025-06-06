@@ -63,12 +63,12 @@ class AdjListGraph:
             visited = set()
         visited.add(src)
         print(src)
-        for neighbour in self.adj_list[src]:
+        for neighbour, _ in self.adj_list[src]:
             if neighbour not in visited:
                 self.dfs(neighbour, visited)
 
     def get_neighbors(self, vertex):
-        return self.adj_list.get[vertex, []]
+        return [dest for dest, _ in self.adj_list.get(vertex, [])]
 
     def get_nodes(self):
         return list(self.adj_list.keys())
